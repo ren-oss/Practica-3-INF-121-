@@ -1,0 +1,8 @@
+MiSalud;1;Calle A
+Golpex,101,tos,12.5
+Paracetamol,102,fiebre,5.5
+#
+VitaPlus;2;Avenida B
+Ibuprofeno,201,tos,6.0
+Golpex,202,tos,10.0
+#

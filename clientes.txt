@@ -1,0 +1,1 @@
+[{"id": 101, "nombre": "Carlos", "telefono": 77712345}, {"id": 102, "nombre": "Elena", "telefono": 76543210}]
