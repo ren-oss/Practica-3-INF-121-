@@ -1,0 +1,3 @@
+Juan Pérez,35,2500.5
+María Gómez,28,3200.75
+Carlos Ruiz,42,1800.25
